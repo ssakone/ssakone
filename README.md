@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[![enokas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssakone)](https://github.com/anuraghazra/github-readme-stats)
-![Visitor Count](https://profile-counter.glitch.me/ssakone/count.svg)
+![enokas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssakone&show_icons=true&theme=radical)
