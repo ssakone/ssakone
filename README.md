@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there 👋, I'm Enokas
+## Qt lover ❤️
+⚡ I am passionate about software development with Qt/Qml.
+⚡/🌱 I love and do Python, C++ and dart, flutter, django, flask. 
 <!--
 **ssakone/ssakone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
