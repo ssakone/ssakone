@@ -1,1 +1,1 @@
-### Hi there 👋, I'm Enokas (Qt Enthusiast ❤️)
+### Hi there 👋, I'm Enokas (I love coding ❤️)
