@@ -50,48 +50,43 @@ Hello! I'm **Enokas**, a dedicated full-stack developer with a passion for craft
 
 ### Top Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      #### pb_mcp_server
-      [![Stars](https://img.shields.io/github/stars/ssakone/pb_mcp_server?style=social)](https://github.com/ssakone/pb_mcp_server)
+#### pb_mcp_server
+[![Stars](https://img.shields.io/github/stars/ssakone/pb_mcp_server?style=social)](https://github.com/ssakone/pb_mcp_server)  
 
-      Advanced PocketBase MCP Server implementation with comprehensive API support.
+Advanced PocketBase MCP Server implementation with comprehensive API support.  
 
-      **Tech**: TypeScript, Node.js, PocketBase  
-      52⭐ Stars | 3🍴 Forks
-    </td>
-    <td width="50%">
-      #### pb_manager
-      [![Stars](https://img.shields.io/github/stars/ssakone/pb_manager?style=social)](https://github.com/ssakone/pb_manager)
+**Tech**: TypeScript, Node.js, PocketBase  
+52⭐ Stars | 3🍴 Forks
 
-      Comprehensive PocketBase Instance Manager for streamlined database management.
+---
 
-      **Tech**: Python  
-      31⭐ Stars | 4🍴 Forks
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      #### relais-client
-      [![Stars](https://img.shields.io/github/stars/ssakone/relais-client?style=social)](https://github.com/ssakone/relais-client)
+#### pb_manager
+[![Stars](https://img.shields.io/github/stars/ssakone/pb_manager?style=social)](https://github.com/ssakone/pb_manager)  
 
-      Service exposure client for secure internet connectivity.
+Comprehensive PocketBase Instance Manager for streamlined database management.  
 
-      **Tech**: JavaScript  
-      8⭐ Stars | 1🍴 Fork
-    </td>
-    <td width="50%">
-      #### QtPocketBase
-      [![Stars](https://img.shields.io/github/stars/ssakone/QtPocketBase?style=social)](https://github.com/ssakone/QtPocketBase)
+**Tech**: Python  
+31⭐ Stars | 4🍴 Forks
 
-      Qt bindings for PocketBase with desktop application support.
+---
 
-      **Tech**: C++  
-      2⭐ Stars | 1🍴 Fork
-    </td>
-  </tr>
-</table>
+#### relais-client
+[![Stars](https://img.shields.io/github/stars/ssakone/relais-client?style=social)](https://github.com/ssakone/relais-client)  
+
+Service exposure client for secure internet connectivity.  
+
+**Tech**: JavaScript  
+8⭐ Stars | 1🍴 Fork
+
+---
+
+#### QtPocketBase
+[![Stars](https://img.shields.io/github/stars/ssakone/QtPocketBase?style=social)](https://github.com/ssakone/QtPocketBase)  
+
+Qt bindings for PocketBase with desktop application support.  
+
+**Tech**: C++  
+2⭐ Stars | 1🍴 Fork
 
 ---
 
