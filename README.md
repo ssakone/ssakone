@@ -181,10 +181,8 @@ I'm always open to:
 - 📚 Knowledge Sharing — Teaching and learning together
 - 🚀 Open Source — Contributing to meaningful projects
 
-<div align="center">
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ssakone)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-</div>
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renokas@duck.com)
 
 ---
 
