@@ -165,15 +165,17 @@ Active member and contributor in:
 ### Network & Services
 - relais-client — Service exposure and connectivity
 
-### Desktop Applications
-- QtPocketBase — Qt PocketBase Client
-- Tera — Desktop application platform
+## Desktop Applications
+
+- **QtPocketBase** — Qt PocketBase Client
+- **Tera** — Desktop application platform
 
 ---
 
 ## Let's Connect & Collaborate
 
 I'm always open to:
+
 - 💡 New Projects — Exciting ideas and challenging problems
 - 🔗 Collaborations — Working with talented developers
 - 📚 Knowledge Sharing — Teaching and learning together
