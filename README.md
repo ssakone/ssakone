@@ -14,11 +14,11 @@
 
 Hello! I'm **Enokas**, a dedicated full-stack developer with a passion for crafting elegant solutions to complex problems. I focus on clean, maintainable code and applications that deliver real value.
 
-- 💻 **Full-Stack Development**: Python, C++, JavaScript/TypeScript, and more
-- 🎯 **Specialization**: Backend systems, API development, CLI tools, desktop applications
-- 🏆 **2,745+ GitHub contributions** — consistent dedication to development
-- 🌍 **Open Source Advocate**: Contributing to community projects and building developer tools
-- 📚 **Continuous Learner**: Always exploring new technologies and best practices
+- **Full-Stack Development**: Python, C++, JavaScript/TypeScript, and more
+- **Specialization**: Backend systems, API development, CLI tools, desktop applications
+- **2,745+ GitHub contributions** — consistent dedication to development
+- **Open Source Advocate**: Contributing to community projects and building developer tools
+- **Continuous Learner**: Always exploring new technologies and best practices
 
 ---
 
@@ -105,81 +105,7 @@ Qt bindings for PocketBase with desktop application support.
 
 ---
 
-## Organizations & Communities
-
-Active member and contributor in:
-- @toastr-space — Community projects and collaborative development
-- @0xInDev — Development initiatives
-- @BumaApp — Business intelligence applications
-- MadeInMali — Local tech ecosystem building
-
----
-
-## Skills & Expertise
-
-### Development Areas
-- ✅ Full-Stack Web Development — End-to-end application design
-- ✅ Backend Architecture — Scalable APIs, database optimization, microservices
-- ✅ Desktop Applications — Qt/C++ with modern UI/UX
-- ✅ CLI Tools — Utilities for developers and power users
-- ✅ DevOps & Infrastructure — Docker, deployment, automation
-- ✅ Open Source Contribution — Active community participant
-
-### Soft Skills
-- Collaborative Development — Git workflows, code review, team projects
-- Problem Solving — Creative technical solutions
-- Documentation — Clear technical writing
-- Project Management — Delivery-focused approach
-
----
-
-## Highlights & Achievements
-
-- 🏆 Code Artist — Consistent quality code
-- 🎯 Pair Extraordinaire — Active collaboration
-- ⭐ Starstruck — Projects gaining community recognition
-- 🚀 Quick Draw — Fast-paced development
-- 🐋 Pull Shark — Significant pull request contributions
-- 🎲 YOLO — Bold merging style (sometimes without review!)
-- 🧊 Arctic Code Vault Contributor — Code preserved for the future
-
----
-
-## Current Focus
-
-- 🔧 PocketBase Ecosystem — Expanding tools and integrations
-- 🌐 Full-Stack Solutions — Complete applications from DB to UI
-- 📱 Cross-Platform Development — Seamless multi-platform apps
-- 🤖 Developer Tools — Utilities that improve productivity
-- 🌱 Community Building — Open source contributions & mentoring
-
----
-
-## Repository Categories
-
-### Database & Backend Tools
-- pb_manager — PocketBase Instance Manager
-- pb_mcp_server — MCP Server for PocketBase
-- pb_cli — PocketBase CLI Administration Tool
-
-### Network & Services
-- relais-client — Service exposure and connectivity
-
-## Desktop Applications
-
-- **QtPocketBase** — Qt PocketBase Client
-- **Tera** — Desktop application platform
-
----
-
 ## Let's Connect & Collaborate
-
-I'm always open to:
-
-- 💡 New Projects — Exciting ideas and challenging problems
-- 🔗 Collaborations — Working with talented developers
-- 📚 Knowledge Sharing — Teaching and learning together
-- 🚀 Open Source — Contributing to meaningful projects
 
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ssakone)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renokas@duck.com)
